@@ -27,6 +27,7 @@ require 'lolcommits/plugins/dot_com'
 require 'lolcommits/plugins/tranzlate'
 require 'lolcommits/plugins/lol_twitter'
 require 'lolcommits/plugins/uploldz'
+require 'lolcommits/plugins/idobata'
 require 'lolcommits/plugins/lolsrv'
 
 # require runner after all the plugins have been required

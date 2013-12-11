@@ -40,6 +40,7 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency('twitter', '~> 4.8.1')     #twitter
   s.add_runtime_dependency('oauth')                   #twitter
   s.add_runtime_dependency('rest-client')             #uploldz
+  s.add_runtime_dependency('cloudapp_api')            #idobata
   s.add_runtime_dependency('httmultiparty')           #dot_com
   s.add_runtime_dependency('httparty', "~> 0.11.0")   #dot_com
   s.add_runtime_dependency('json', '~> 1.7.6')        #lolsrv
